@@ -1,0 +1,8 @@
+pyodbc
+pandas
+scikit-learn
+SQLAlchemy
+python-decouple
+matplotlib
+scipy
+seaborn

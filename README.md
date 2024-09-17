@@ -1,0 +1,1 @@
+Dectector de Novedades
