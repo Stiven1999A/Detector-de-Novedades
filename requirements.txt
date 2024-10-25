@@ -1,3 +1,4 @@
+numpy==1.21
 pyodbc
 pandas
 scikit-learn
@@ -6,3 +7,7 @@ python-decouple
 matplotlib
 scipy
 seaborn
+prophet
+psycopg2
+fbprophet
+python-dotenv
